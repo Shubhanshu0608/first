@@ -4,3 +4,4 @@ right now using html and just happened to be into just 16 mins into a 10 hr vide
 
 
 1.div tag is used to create division like header and footers and chammbers etc etc
+2.two types of listing ordered and unordered list
