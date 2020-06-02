@@ -3,4 +3,4 @@ important points to be noted down
 right now using html and just happened to be into just 16 mins into a 10 hr video 
 
 
-1.div tag is used to create division like header and footers
+1.div tag is used to create division like header and footers and chammbers etc etc
